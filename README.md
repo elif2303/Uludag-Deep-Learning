@@ -1,3 +1,5 @@
+![Afis](https://raw.githubusercontent.com/metover/Uludag-Deep-Learning/master/Gorseller/udl.jpg)
+
 # Uludag-Deep-Learning
 
 Ödeve assignment klasöründen ulaşabilirsiniz.
@@ -6,7 +8,7 @@
 [Link](https://github.com/metover/Uludag-Deep-Learning/blob/master/Assignment/Derin-Ogrenme-Egitimi-Sorular.ipynb)
 
 
-# Derin Öğrenme ve Yapay Zeka
+### Derin Öğrenme ve Yapay Zeka
 
 Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım aşamasında düzenleme ve eklemeler devam ediyor.)
 
@@ -26,4 +28,3 @@ Bu repo altında temel ve giriş bilgileri yayınlanacaktır. (Yapım aşamasın
 > Kaan Can Yılmaz tarafından hazırlanan giriş düzeyi deep learning eğitimi. (https://www.kaggle.com/kanncaa1)
 
 
-![Afis](/images/tensorflowafis2.jpg)
